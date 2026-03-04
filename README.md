@@ -1,56 +1,40 @@
 <h1 align="center">Francisco Ferreira Afonseca</h1>
 
+<h3 align="center">
+Estudante Engenharia Informatica / Computer Science Student 
+</h3> 
+
 <p align="center">
-Estudante de Licenciatura em Engenharia Informática
+Universidade da Madeira
 </p>
 
 ---
 
-## 🇵🇹 Sobre mim
+<p align="center"><sub>PT</sub></p>
 
-Gosto de tecnologia e desenvolvimento de software, com interesse especial em criar soluções eficientes e bem estruturadas.
+<h2 align="center">Sobre mim</h2>
+Sou estudante de Licenciatura em Engenharia Informática na Universidade da Madeira.
+Fora do interesse académica e tecnológico, gosto de manter um estilo de vida ativo e equilibrado.
+<br>
 
-Atualmente estou a estudar **Engenharia Informática** e procuro constantemente melhorar as minhas competências em desenvolvimento, resolução de problemas e criação de projetos.
-
-Nos tempos livres gosto de:
-- 🏖️ Ir à praia  
-- 🎧 Ouvir música  
-- 📚 Ler ocasionalmente  
-- ✈️ Viajar  
-- 🏋️ Ir ao ginásio  
+<h5 align="center">Desenvolvimento de Software - Ciencia de Dados  - Inteligência Artificial - Machine Learning   
 
 ---
+<p align="center"><sub>EN</sub></p>
 
-## 🇬🇧 About Me
+<h2 align="center">About Me</h2>
 
-I'm currently pursuing a **Bachelor's degree in Computer Engineering**.
+I am currently a Bachelor's student in Computer Engineering at the University of Madeira.  
+Outside the academic and technological environment, I enjoy maintaining an active and balanced lifestyle.
 
-I'm passionate about technology and software development, always looking to learn new tools and improve my problem-solving skills through practical projects.
+<h5 align="center">
+Software Development - Data Science - Artificial Intelligence - Machine Learning
+</h5>
 
-In my free time I enjoy:
-
-- 🏖️ Going to the beach  
-- 🎧 Listening to music  
-- 📚 Reading occasionally  
-- ✈️ Traveling  
-- 🏋️ Going to the gym  
 
 ---
-
-## 🚀 Áreas de Interesse
-
-- Software Development  
-- Web Development  
-- Artificial Intelligence  
-- Cybersecurity  
-- Systems Programming  
-
----
-
-## 🔗 Links
-
-Portfolio:  
+### Portefólio
 https://franciscoafonseca.github.io
 
-GitHub:  
-https://github.com/franciscoafonseca
+### Linkdin
+https://www.linkedin.com/in/francisco-ferreira-afonseca
